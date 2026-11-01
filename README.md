@@ -1,8 +1,8 @@
-# 🧱 Tetris — um ponto por linha
+# 🧱 Tetris
 
 Jogo de Tetris clássico feito em um único arquivo HTML, sem dependências e sem instalação. Funciona no computador, no tablet e no celular.
 
-**🎮 Jogar online:** https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+**🎮 Jogar online:** https://phfcuditablet.github.io/tetris/
 
 ## Regras de pontuação
 
@@ -32,7 +32,7 @@ Os botões laterais aparecem automaticamente em telas de toque e telas menores, 
 Não precisa instalar nada. Baixe o repositório e abra o arquivo `index.html` no navegador.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/phfcuditablet/tetris.git
 cd NOME-DO-REPOSITORIO
 # abra o index.html no navegador (duplo clique)
 ```
